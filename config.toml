@@ -24,17 +24,17 @@ copyright = "Copyright © 2015-{year} Nishanth Shanmugham"
 # copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
 logofile = "img/logo.png"
 faviconfile = "img/logo.png"
-highlightjs = false
+highlightjs = true
 progressively = false
-share = false
+share = true
 # Share to googleplus, twitter, fb, linkedin by default
 # disable by setting share_on_<social network> = false
 # example: share_on_googleplus = false
 latestpostcount = 5
 social_banner = "img/banner.png"
-usesmallsummarycard = false
-posts_navigation = false
+usesmallsummarycard = true
+posts_navigation = true
 # issoHost = "comments.domain.tld:1234"
 # githubRepo = "githubUsername/repositoryName/tree/master"
-small_banner_logo = false
+small_banner_logo = true
 
