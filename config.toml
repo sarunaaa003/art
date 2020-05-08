@@ -1,7 +1,7 @@
 baseurl = "https://master.d3vb6a7ts4cf2a.amplifyapp.com"
 theme = "../.."
-builddrafts = false
-canonifyurls = false
+builddrafts = true
+canonifyurls = true
 contentdir = "content"
 languageCode = "en-US"
 layoutdir = "layouts"
@@ -10,7 +10,7 @@ publishdir = "public"
 author = "Alexis Tacnet"
 title = "Cocoa Enhanced"
 disqusshortname = ""
-pluralizelisttitles = false
+pluralizelisttitles = true
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [permalinks]
